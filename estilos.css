@@ -1,0 +1,46 @@
+.tilo{
+    background: url('imagen/fifa2014.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.sesion1{
+    display: grid;
+    grid-template-columns: 200px auto;
+    position: fixed;
+    height: 200px;
+}
+.sesion2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.sesion2lo2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.navo{
+    color: rgb(4, 15, 172);
+    border: 2px solid rgb(rgb(255, 238, 0), rgb(255, 123, 0), rgb(167, 10, 10));
+    padding: 30px 30px;
+    text-align: center;
+    display: online-block;
+    border-radius: 10px;
+}
+
+.sesion3{
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+}
+
+section .content h2{
+    color: #fff;
+    font-size: 2em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+section .id p{
+    color: #fff;
+    font-size: 1.2em;
+}
